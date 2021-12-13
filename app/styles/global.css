@@ -1,0 +1,14 @@
+body {
+    background-color: #ff0000;
+    color: white;
+    font-family: 'VT323', monospace;
+    font-size: 2rem;
+}
+
+header {
+    background-color: #cc0000;
+}
+
+footer {
+    background-color: #cc0000;
+}
