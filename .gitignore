@@ -5,3 +5,5 @@ node_modules
 /public/build
 /app/tailwind.css
 /netlify/functions/server/build
+# Local Netlify folder
+.netlify
